@@ -1,0 +1,2 @@
+﻿OriginCity,OriginState,DestinationCity,DestinationState,Weight,Response
+Darlington,SC,Any,"inList({""SC"",""NC""})",>0,Respond
